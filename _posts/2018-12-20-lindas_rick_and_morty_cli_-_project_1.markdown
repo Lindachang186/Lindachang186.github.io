@@ -57,7 +57,7 @@ def self.find_by_name(name)
   end
 ```
 
-It was really satisfying to see my code working in the end but there was a lot of times when I felt like I wasn't confident my code was going to work. I had to use binding.pry a lot. I also felt like a lot of the times I was over complicating what had to be done in my head which meant I needed to walk away and listen to my advice in the [previous blog post](https://lindachang186.github.io/top_3_ways_to_deal_with_coders_block). 
+It was really satisfying to see my code working in the end but there was a lot of times when I felt like I wasn't confident my code was going to work. I had to use binding.pry a lot. I also felt like a lot of the times I was over complicating what had to be done in my head which meant I needed to walk away and listen to my advice in my [previous blog post](https://lindachang186.github.io/top_3_ways_to_deal_with_coders_block). 
 
 But now you can check out my project on github. In summation my project interacts with the user and asks them if they want to find a character or if they want to generate a random character! Wubba-lubba-dub-dub!
 
