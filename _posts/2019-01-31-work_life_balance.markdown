@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Work Life Balance"
-date:       2019-02-01 01:32:19 +0000
+date:       2019-01-31 20:32:20 -0500
 permalink:  work_life_balance
 ---
 
